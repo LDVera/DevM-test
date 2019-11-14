@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">grub</string>
+    <string name="title_activity_get_all_users">activity_get_all_users</string>
+    <string name="hobbie"></string>
+</resources>
